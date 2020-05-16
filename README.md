@@ -7,7 +7,7 @@
   staff can also post notices on events at their department level. This can be also be done by
   some specific students (like Committee Head, etc.).
  
-# Link
+## Link
   [Connect](https://connect-22b11.firebaseapp.com/)
 
 ## Built With
